@@ -1,0 +1,4 @@
+/* Adapted from BoardUI free theme, https://www.boardui.com/r/theme.json.
+   Copyright (c) 2026 Mertcan Dundar Esmergul. MIT; see boardui-LICENSE.txt.
+   Only the neutral primitives, medium radius and contact shadow are used. */
+:root{--color-neutral-100:#f7f7f7;--color-neutral-200:#ebebeb;--color-neutral-925:#121212;--radius-2lg:10px;--shadow-card:0 1px 1px 0 rgb(0 0 0 / .05)}

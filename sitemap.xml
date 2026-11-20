@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://aliparchekan.github.io/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <image:image><image:loc>https://aliparchekan.github.io/assets/ali-parchekani-portrait.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://aliparchekan.github.io/research.html</loc>
+    <lastmod>2026-11-19</lastmod>
+  </url>
+  <url>
+    <loc>https://aliparchekan.github.io/assets/ali-parchekani-resume.pdf</loc>
+    <lastmod>2026-11-19</lastmod>
+  </url>
+</urlset>
